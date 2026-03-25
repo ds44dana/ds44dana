@@ -30,7 +30,7 @@ Three roles that compound: I know what good reasoning looks like from the biolog
 
 📄 [Paper 1 — arXiv preprint](https://arxiv.org) *(link to be updated on submission)*
 💼 [LinkedIn](https://linkedin.com/in/stellaxa)
-📧 xiao@innospring.net
+📧 info@innospring.net
 
 ---
 
