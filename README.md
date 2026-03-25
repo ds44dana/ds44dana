@@ -1,4 +1,4 @@
-# Stella Xiao
+# Stella X
 
 **Independent researcher building measurement infrastructure for AI reasoning quality.**
 
